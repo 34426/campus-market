@@ -22,12 +22,5 @@ public interface UserDao extends JpaRepository<User, Long>{
 	 */
 	public User findByUsername(String username);
 
-	/**
-	 * 根据用户id查询
-	 * @param id
-	 * @return
-	 */
-	@Query("select u from User u where id = :id")
-	public User find(@Param("id")Long id);
 	
 }
