@@ -1,24 +1,15 @@
 # 校园二手市场
 
-
-### 有问题，或者需要协助调试运行项目的, 可以加QQ：2529519551，或者微信 ：xzxj0206 注明项目，“git+项目名称” ，如：“git学生宿舍管理系统”
-
-### 更多项目： https://github.com/34426?tab=repositories
-
-
 ## 一、介绍
+
 基于springboot的校园二手交易平台
 
+开发语言：java
 
-
-
-![img.png](imgs/img.png)
-
-### 11300多字论文参考
-
-![img.png](imgs/1.png)
+运行环境:idea或eclipse 数据库:mysql
 
 ## 二、项目功能介绍
+
 ### 1、后台功能介绍
 1、菜单管理  2、角色管理
 3、用户管理 4、日志管理
@@ -33,27 +24,35 @@
 
 ## 三、后台部分页面展示
 
+![img_4.png](imgs/img_4.png)
+
+![img_1.png](imgs/img_1.png)
 
 ![img_2.png](imgs/img_2.png)
 
 ![img_3.png](imgs/img_3.png)
 
-![img_4.png](imgs/img_4.png)
-
-
-
-
-
 ## 四、前台部分页面展示
+
+![img_5.png](imgs/img_5.png)
+
+![img_6.png](imgs/img_6.png)
 
 ![img_7.png](imgs/img_7.png)
 
+![img_8.png](imgs/img_8.png)
 
-![img_10.png](imgs/img_10.png)
+## 五、视频演示
 
-![img_11.png](imgs/img_11.png)
+```
+链接：https://pan.baidu.com/s/1Zrg8g8Ut8AS7WgvqaM_CSQ?pwd=7l99
 
+提取码：7l99
 
+--来自百度网盘超级会员V6的分享
 
+```
 
-
+## 六、 9.9￥ 获取完整源码+sql，附赠11000字论文参考，附赠11000字论文参考，需要加Q：3808981644 备用Q：3577148218
+## 有问题，或者需要协助调试运行项目的也可联系
+![img.png](img.png)
